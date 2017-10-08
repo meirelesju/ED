@@ -10,7 +10,7 @@ import java.lang.String;
  */
 
 
-public class onp {
+class onp {
    
         public static void main(String[] args) throws IOException{
         try{
@@ -70,7 +70,7 @@ public class onp {
                     
                 
                     
-    }catch(Exception e){}
-        
-        
-        }}
+    }
+		catch(Exception e){}
+      }
+	}
