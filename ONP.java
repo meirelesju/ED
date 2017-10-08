@@ -65,6 +65,7 @@ class onp {
                 }
         
         System.out.println(output.trim());
+	//esse método .trim() tira os espaços no início e no final da string
 	i--;    
 	 }
                     
